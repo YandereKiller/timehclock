@@ -1,4 +1,4 @@
-# timehclock
+# Clock
 
 Windows only!
 In case you are not satisfied with the standart windows clock app xD
