@@ -6,7 +6,7 @@
 
 struct TimerCycle {
 
-	double sec = 0; int min = 0; int hour = 0; double seccompare = 0; bool ispaused = 0; clock_t timer = NULL; 
+	double sec = 0; int min = 0; int hour = 0; double seccompare = 0; clock_t timer = NULL; 
 	double cycletimer = NULL;
 	
 	void NoBp() //Stopwatch script
